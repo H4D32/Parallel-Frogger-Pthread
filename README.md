@@ -12,3 +12,9 @@ This was originally an assignment given in the Operating system course in The Ch
 
 If you are here from CUHK-SZ I will only ask you to not send my exact codes/screenshots for your Assignment. (you will get a 0)
 Thank you <3
+
+## Implementation 
+
+The implementation is done in C++ with pthread, for details look at the report pdf and the source code under source/frogger.cpp
+![alt text](https://github.com/H4D32/Parallel-Frogger-Pthread
+/blob/main/flowchart.jpg?raw=true)
