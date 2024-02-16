@@ -17,3 +17,7 @@ Thank you <3
 
 The implementation is done in C++ with pthread, for details look at the report pdf and the source code under source/frogger.cpp
 ![alt text](https://github.com/H4D32/Parallel-Frogger-Pthread/blob/main/flowchart.jpg?raw=true)
+
+### Screenshot
+![image](https://github.com/H4D32/Parallel-Frogger-Pthread/assets/49611754/34941dfa-ad2e-4c4d-9c77-fab8a737fd5c)
+
